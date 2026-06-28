@@ -487,6 +487,66 @@
         font-size: 32px;
       }
     }
+    @media (max-width: 1200px) and (min-width: 901px) {
+
+  .page {
+    padding: 28px 42px;
+  }
+
+  .hero {
+    grid-template-columns: 1.05fr 0.95fr;
+    gap: 10px;
+  }
+
+  h1 {
+    font-size: 58px;
+  }
+
+  .lead {
+    font-size: 22px;
+  }
+
+  .car {
+    right: -170px;
+    top: 35px;
+    width: 620px;
+  }
+
+  .features {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .feature {
+    border-bottom: 1px solid var(--line);
+  }
+
+  .feature:nth-child(2) {
+    border-right: 0;
+  }
+
+  .feature:nth-child(3),
+  .feature:nth-child(4) {
+    border-bottom: 0;
+  }
+
+  .steps {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .arrow {
+    transform: rotate(90deg);
+    text-align: center;
+  }
+
+  .trust {
+    grid-template-columns: 1fr;
+  }
+
+  .tesla-link {
+    text-align: left;
+  }
+}
   </style>
 </head>
 
