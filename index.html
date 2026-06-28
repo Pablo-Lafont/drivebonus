@@ -459,14 +459,19 @@
 }
 
 .desktop-cta {
-  left: -15px;
-  bottom: 70px;
-  width: min(610px, 92%);
+    left: 10px;              /* movemos todo el botón un poco a la derecha */
+    bottom: 40px;            /* bajamos el botón */
+    width: 540px;            /* más corto, eliminamos espacio azul sobrante */
+    padding-right: 70px;     /* dejamos sitio para la flecha */
+}
+
+.desktop-cta span:last-child {
+    right: 28px;             /* acercamos la flecha al texto */
 }
 
 .desktop-direct {
-  left: -15px;
-  bottom: 30px;
+    left: 10px;              /* igual que el botón */
+    bottom: 5px;             /* alineamos con la parte baja de la tarjeta */
 }
 
       .feature {
