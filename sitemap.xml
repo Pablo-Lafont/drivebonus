@@ -12,6 +12,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.drivebonus.eu/fr/parrainage-tesla/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.drivebonus.eu/it/referral-tesla/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.drivebonus.eu/nl/tesla-verwijzing/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.drivebonus.eu/pl/tesla-polecenie/"/>
   </url>
 
   <url>
@@ -23,6 +24,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.drivebonus.eu/fr/parrainage-tesla/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.drivebonus.eu/it/referral-tesla/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.drivebonus.eu/nl/tesla-verwijzing/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.drivebonus.eu/pl/tesla-polecenie/"/>
   </url>
 
   <url>
@@ -34,6 +36,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.drivebonus.eu/fr/parrainage-tesla/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.drivebonus.eu/it/referral-tesla/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.drivebonus.eu/nl/tesla-verwijzing/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.drivebonus.eu/pl/tesla-polecenie/"/>
   </url>
 
   <url>
@@ -45,6 +48,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.drivebonus.eu/fr/parrainage-tesla/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.drivebonus.eu/it/referral-tesla/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.drivebonus.eu/nl/tesla-verwijzing/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.drivebonus.eu/pl/tesla-polecenie/"/>
   </url>
 
   <url>
@@ -56,6 +60,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.drivebonus.eu/fr/parrainage-tesla/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.drivebonus.eu/it/referral-tesla/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.drivebonus.eu/nl/tesla-verwijzing/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.drivebonus.eu/pl/tesla-polecenie/"/>
   </url>
 
   <url>
@@ -67,6 +72,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.drivebonus.eu/fr/parrainage-tesla/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.drivebonus.eu/it/referral-tesla/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.drivebonus.eu/nl/tesla-verwijzing/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.drivebonus.eu/pl/tesla-polecenie/"/>
   </url>
 
   <url>
@@ -78,6 +84,19 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.drivebonus.eu/fr/parrainage-tesla/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://www.drivebonus.eu/it/referral-tesla/"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.drivebonus.eu/nl/tesla-verwijzing/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.drivebonus.eu/pl/tesla-polecenie/"/>
   </url>
+
+  <url>
+  <loc>https://www.drivebonus.eu/pl/tesla-polecenie/</loc>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://www.drivebonus.eu/"/>
+  <xhtml:link rel="alternate" hreflang="es" href="https://www.drivebonus.eu/es/referidos-tesla/"/>
+  <xhtml:link rel="alternate" hreflang="de" href="https://www.drivebonus.eu/de/tesla-empfehlungslink/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://www.drivebonus.eu/en/tesla-referral-link/"/>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://www.drivebonus.eu/fr/parrainage-tesla/"/>
+  <xhtml:link rel="alternate" hreflang="it" href="https://www.drivebonus.eu/it/referral-tesla/"/>
+  <xhtml:link rel="alternate" hreflang="nl" href="https://www.drivebonus.eu/nl/tesla-verwijzing/"/>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://www.drivebonus.eu/pl/tesla-polecenie/"/>
+</url>
 
 </urlset>
